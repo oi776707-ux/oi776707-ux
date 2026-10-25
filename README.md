@@ -48,11 +48,11 @@ Espacio de aprendizaje para documentar prácticas de seguridad, redes y programa
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Carlos-OI&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-OI&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
